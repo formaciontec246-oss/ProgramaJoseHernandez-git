@@ -1,1 +1,2 @@
 Nombre: Jose Hernandez - Correo: correo@sena.edu.co
+Esta es una prueba de que Git funciona
